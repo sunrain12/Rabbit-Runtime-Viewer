@@ -1,4 +1,3 @@
-# Rabbit-Runtime-Viewer— MVP 0.1
 # 🐇 Rabbit Runtime Viewer — MVP 0.1
 
 > An interactive AI-powered runtime viewer with two rabbit characters.
